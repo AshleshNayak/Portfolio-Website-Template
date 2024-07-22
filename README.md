@@ -1,6 +1,6 @@
 # Portfolio Website Template 🚀
 
-Welcome to the GitHub repository for the Portfolio Website Template! This repository provides a template for creating a portfolio website from scratch. You can check out a live version of the website [here](https://anuswarrrao.netlify.app).
+Welcome to the GitHub repository for the Portfolio Website Template! This repository provides a template for creating a portfolio website from scratch. 
 
 ## 🚀 Getting Started
 
